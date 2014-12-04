@@ -3,3 +3,4 @@ Beta()
 Gamma + 1
 Zeta
 One more line
+This can be squashed
