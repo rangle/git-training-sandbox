@@ -1,3 +1,3 @@
 Aleph
-Beta
-Gamma
+Beta()
+Gamma + 1
